@@ -11,7 +11,6 @@ function click1(){
 
 $(".header1").on("click",click1);
 
-
 function click2(){
     $(".section1").addClass("closed");
     $(".section2").removeClass("closed");
