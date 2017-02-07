@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box; }
+
+#accordion {
+  width: 550px;
+  text-align: center;
+  margin: auto;
+  border: 1px solid #00C6D6; }
+  #accordion h3 {
+    background: #00C6D6;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: left;
+    padding: 10px;
+    color: white; }
+  #accordion div {
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    width: 500px;
+    text-align: left;
+    padding-left: 20px;
+    color: darkgrey; }
+  #accordion .closed {
+    height: 0px;
+    padding: 0px;
+    overflow: hidden; }
