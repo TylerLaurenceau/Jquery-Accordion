@@ -43,6 +43,7 @@ div{
 .closed {
   max-height: 0px;
   padding: 0px;
+  padding-left: 20px;
   overflow: hidden;
   transition: all 1.2s ease-in-out;
 }
