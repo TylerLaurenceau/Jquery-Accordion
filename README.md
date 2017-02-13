@@ -6,6 +6,8 @@
 
 Within this project I made a accordion style drop menu using Jquery and CSS.
 
+[Link to the live site](http://TylerLaurenceau.github.io/Jquery-Accordion/)
+
 Here is what i've learned in this project:
 
 #Jquery
@@ -18,4 +20,4 @@ Here is what i've learned in this project:
 #SCSS
 * Using hover to change the color of text or backgrounds when the user mouses over it.
 * Using transitions to make my created webpages more elegant.
-* Better understanding of what `overflow` does. 
+* Better understanding of what `overflow` does.
